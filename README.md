@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @yesmentor
-- 👀 I’m interested in providing mentoring
-- 🌱 I’m currently learning chatbot feature
-- 💞️ I’m looking to collaborate on with chatbot developers
+- 👋 Hi, I’m @yesmentor,  We are creating Career Mentoring AI chatbots to be used by Students and Young professionals across the Globe, check out Yesmentor.AI
 - 📫 How to reach me vijay@yesmentor.org
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-yesmentor/yesmentor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: ...Be the Change
